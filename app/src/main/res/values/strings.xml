@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MQTTDemo</string>
+    <string name="system_web_busy">抱歉！服务器响应异常，请稍后重试</string>
+    <string name="airplanemodeOn">为保证您的正常使用，请您关闭飞行模式</string>
+    <string name="airplanemodeOff">飞行模式已关闭</string>
+    <string name="network_fail">当前网络不通畅，请检查您的网络设置</string>
+    <string name="permission_write_external_storage">"App”需要使用存储权限，您是否允许？</string>
+    <string name="permission_hint_content">您禁止了应用的必要权限，可能会影响您的使用</string>
+
+
+</resources>
